@@ -23,6 +23,6 @@ b. FastAPI
 c. Text embeddings
 d. Pytest
 
-Statis -
+Status -
 
 Repo setup done. Moving on to retrieval and eval implementation
